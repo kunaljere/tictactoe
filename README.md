@@ -9,4 +9,4 @@ Instructions to run cpp file in Windows:
 
 3. Type "g++ tictactoe.cpp" and hit enter, assuming you have g++ installed on Windows
 
-4. An executable file will appear named 'a'. Type .\a.exe and hit enter, then the game will start
+4. An executable file will appear named 'a'. Type ".\a.exe" and hit enter, then the game will start
